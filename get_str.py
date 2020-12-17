@@ -19,3 +19,6 @@ sys.path.append(up_level_folder)
 import _Server.Module_log as log        # 自定义日志函数
 today = log.today                       # 当前日期
 get_logger = log.logger(__name__, current_file_name)  # 实例化日志对象
+
+def test():
+    pass
