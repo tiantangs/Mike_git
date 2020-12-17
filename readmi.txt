@@ -7,3 +7,6 @@ second new line
 
 add a new line
 44444444
+
+add a new line
+666666666
